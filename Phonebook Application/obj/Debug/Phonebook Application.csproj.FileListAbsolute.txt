@@ -1,0 +1,6 @@
+C:\Users\Emmanuel Mark\Desktop\Interview Practice Code\Phonebook Application\bin\Debug\Phonebook Application.exe.config
+C:\Users\Emmanuel Mark\Desktop\Interview Practice Code\Phonebook Application\bin\Debug\Phonebook Application.exe
+C:\Users\Emmanuel Mark\Desktop\Interview Practice Code\Phonebook Application\bin\Debug\Phonebook Application.pdb
+C:\Users\Emmanuel Mark\Desktop\Interview Practice Code\Phonebook Application\obj\Debug\Phonebook Application.csprojResolveAssemblyReference.cache
+C:\Users\Emmanuel Mark\Desktop\Interview Practice Code\Phonebook Application\obj\Debug\Phonebook Application.exe
+C:\Users\Emmanuel Mark\Desktop\Interview Practice Code\Phonebook Application\obj\Debug\Phonebook Application.pdb
